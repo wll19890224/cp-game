@@ -1,0 +1,6 @@
+[
+  {"id":"trio-1","level":1,"duration":45,"text":"{FEMALE_1} 为 {MALE} 选一首歌，{FEMALE_2} 邀请 {MALE} 共跳一段慢舞，三人一起分享一句真诚赞美。"},
+  {"id":"trio-2","level":2,"duration":60,"text":"{FEMALE_1} 将少量 {DRINKABLE} 递给 {MALE}，{MALE} 与 {FEMALE_2} 碰杯；三人共同完成一分钟默契挑战。"},
+  {"id":"trio-3","level":2,"duration":60,"text":"{MALE} 为 {FEMALE_1} 和 {FEMALE_2} 各挑选一首歌，三人轮流分享一个欣赏彼此的细节。"},
+  {"id":"trio-4","level":3,"duration":90,"text":"{FEMALE_1} 用 {ITEM} 为 {FEMALE_2} 设计一个小惊喜，{MALE} 负责记录并为两人送上鼓励。"}
+]

@@ -1,0 +1,6 @@
+[
+  {"id":"trio-1","level":1,"duration":45,"text":"{FEMALE_1} picks a song for {MALE}, {FEMALE_2} invites {MALE} to a slow dance, and all three share one sincere compliment."},
+  {"id":"trio-2","level":2,"duration":60,"text":"{FEMALE_1} offers a little {DRINKABLE} to {MALE}, {MALE} toasts with {FEMALE_2}, then all three complete a one-minute teamwork challenge."},
+  {"id":"trio-3","level":2,"duration":60,"text":"{MALE} chooses a song for {FEMALE_1} and {FEMALE_2}; each person shares one detail they appreciate about another player."},
+  {"id":"trio-4","level":3,"duration":90,"text":"{FEMALE_1} uses {ITEM} to prepare a small surprise for {FEMALE_2}, while {MALE} helps set the mood and encourages both players."}
+]
