@@ -1,2 +1,111 @@
-.turn-banner{display:flex;flex-direction:column;gap:3px;margin:0 18px 16px;padding:12px 14px;text-align:left;border:1px solid;border-radius:14px;color:#fff}.turn-banner b{font-size:16px;letter-spacing:.01em}.turn-banner span{font-size:11px;opacity:.86}.task-modal .task-roles{gap:10px;margin:20px 0}.task-modal .task-roles span{min-height:88px;padding:12px;text-align:left;border:1px solid #ffffff12;border-radius:13px;background:#ffffff08}.task-modal .task-roles .actor-card{background:linear-gradient(135deg,#ffffff12,#ffffff05);box-shadow:inset 0 0 18px #ffffff08}.task-modal .task-roles small{display:block;margin-bottom:7px;font-weight:700;font-size:12px;letter-spacing:.04em;color:#e4e4e7}.task-modal .task-roles b{font-size:17px;line-height:1.2}.task-modal .task-roles em{display:block;margin-top:5px;font-size:10px;font-style:normal;color:#a1a1aa}.role-name{padding:1px 5px;border:0;border-radius:5px;background:transparent;font:inherit;font-weight:800}.male-name{color:#fda4af;text-shadow:0 0 12px #f43f5e}.female-name{color:#d8b4fe;text-shadow:0 0 12px #a855f7}
- .task-modal .trio-roles{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}.task-modal .trio-roles span{min-height:76px;padding:8px}.task-modal .trio-roles small{font-size:9px}.task-modal .trio-roles b{font-size:13px}@media(max-width:420px){.task-modal .trio-roles{grid-template-columns:1fr}.task-modal .trio-roles span{min-height:auto}}
+.turn-banner {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0 0 16px;
+  padding: 12px 14px;
+  text-align: left;
+  border: 1px solid;
+  border-radius: 14px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.turn-banner .banner-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.turn-banner .banner-sub {
+  font-size: 11px;
+  opacity: 0.85;
+  line-height: 1.3;
+}
+
+.task-modal .task-roles {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.task-modal .trio-roles {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 6px !important;
+  margin: 16px 0 !important;
+}
+
+.task-modal .trio-roles > div,
+.task-modal .task-roles > div {
+  min-height: auto;
+  padding: 8px 6px;
+  text-align: left;
+  border: 1px solid #ffffff14;
+  border-radius: 12px;
+  background: #ffffff08;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.task-modal .task-roles small {
+  display: block;
+  font-weight: 600;
+  font-size: 10px;
+  color: #d4d4d8;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.task-modal .task-roles b {
+  font-size: 13px;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 4px 0;
+}
+
+.task-modal .task-roles .role-tag {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.1);
+  font-size: 9px;
+  font-weight: 500;
+  color: #e4e4e7;
+  width: fit-content;
+  white-space: nowrap;
+}
+
+.role-name {
+  padding: 1px 5px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  font: inherit;
+  font-weight: 800;
+}
+
+.male-name {
+  color: #fda4af;
+  text-shadow: 0 0 12px #f43f5e;
+}
+
+.female-name {
+  color: #d8b4fe;
+  text-shadow: 0 0 12px #a855f7;
+}
+
+@media (max-width: 360px) {
+  .task-modal .trio-roles > div {
+    padding: 6px 4px;
+  }
+  .task-modal .trio-roles b {
+    font-size: 11px;
+  }
+}

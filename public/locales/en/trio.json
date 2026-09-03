@@ -1,6 +1,310 @@
 [
-  {"id":"trio-1","level":1,"duration":45,"text":"{FEMALE_1} picks a song for {MALE}, {FEMALE_2} invites {MALE} to a slow dance, and all three share one sincere compliment."},
-  {"id":"trio-2","level":2,"duration":60,"text":"{FEMALE_1} offers a little {DRINKABLE} to {MALE}, {MALE} toasts with {FEMALE_2}, then all three complete a one-minute teamwork challenge."},
-  {"id":"trio-3","level":2,"duration":60,"text":"{MALE} chooses a song for {FEMALE_1} and {FEMALE_2}; each person shares one detail they appreciate about another player."},
-  {"id":"trio-4","level":3,"duration":90,"text":"{FEMALE_1} uses {ITEM} to prepare a small surprise for {FEMALE_2}, while {MALE} helps set the mood and encourages both players."}
+  {
+    "id": "trio-101",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} sucks on {MALE}'s Adam's apple while {FEMALE_2} presses tight from behind, tracing his nape and collarbone with her tongue for 30s."
+  },
+  {
+    "id": "trio-102",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Drip chilled {DRINKABLE} down {MALE}'s chest and abs. Both ladies kneel close, using their tongues to lick and suck every drop completely clean."
+  },
+  {
+    "id": "trio-103",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "The ladies each use one hand to unbutton {MALE}'s shirt completely, peeling it off his shoulders and lightly raking nails across his bare ribs."
+  },
+  {
+    "id": "trio-104",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} is blindfolded with {ITEM}. The ladies take turns licking his ear and lower lip. {MALE} must guess who went first by touch and breath alone."
+  },
+  {
+    "id": "trio-105",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Both ladies press their bare or thinly-clad breasts firmly against {MALE}'s back from both sides, wrapping arms around his waist to rub against him for 30s."
+  },
+  {
+    "id": "trio-106",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} takes a sip of {DRINKABLE}, mouth-to-mouth feeding {FEMALE_1}. She swallows half, then immediately french kisses {FEMALE_2} to pass the rest."
+  },
+  {
+    "id": "trio-107",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Both ladies team up to unbuckle {MALE}'s belt and unzip his pants, sliding hands inside his waistband to caress his hipbones, teasing the edge for 45s."
+  },
+  {
+    "id": "trio-108",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Dab {EATABLE} on {MALE}'s earlobes and neck. Both ladies lick it clean simultaneously with wet tongues, making soft sucking sounds in his ears."
+  },
+  {
+    "id": "trio-109",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} straddles {MALE}'s lap, wrapping her legs tight and grinding against him, while {FEMALE_2} hugs him from behind, groping his chest and biting his shoulder."
+  },
+  {
+    "id": "trio-110",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} slides his hands under both ladies' skirts or waistbands, palming their hips and inner thighs over panties, feeling their growing warmth."
+  },
+  {
+    "id": "trio-111",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "The ladies leash {MALE}'s neck with {ITEM}, having him kneel to kiss up their calves and inner thighs toward the hemline while stroking his hair."
+  },
+  {
+    "id": "trio-112",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} sips ice water; {FEMALE_2} sips warm water. They take turns french kissing {MALE}, letting his tongue clash between freezing and burning heat."
+  },
+  {
+    "id": "trio-113",
+    "level": 1,
+    "duration": 30,
+    "isTrio": true,
+    "text": "Both ladies flank {MALE}'s ears, blowing hot gasps directly into his ear canals, tugging his lobes with teeth while whispering \"You're ours tonight.\""
+  },
+  {
+    "id": "trio-114",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} and {FEMALE_2} each hold a piece of {EATABLE} with their lips, leaning in from both sides to feed {MALE}, all three sharing the sweetness."
+  },
+  {
+    "id": "trio-115",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} closes eyes. The ladies choose one to gently nibble his neck or earlobe. If {MALE} guesses correctly, he shares {DRINKABLE} with her; if wrong, he drinks alone."
+  },
+  {
+    "id": "trio-116",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Pour a splash of {DRINKABLE} onto each lady's collarbone. {MALE} leans down to lick every drop clean, while the ladies rest hands on his shoulders."
+  },
+  {
+    "id": "trio-117",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} traces an ice cube down {MALE}'s jaw to his Adam's apple, followed instantly by {FEMALE_2} blowing warm breaths over the chilled skin."
+  },
+  {
+    "id": "trio-118",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Finale of Phase 1: All strip outer clothes to bare underwear, embracing tightly skin-to-skin and kissing in a circle for 30s before heading to the bath!"
+  },
+  {
+    "id": "trio-119",
+    "level": 2,
+    "duration": 30,
+    "isTrio": true,
+    "text": "{MALE} lies back while {FEMALE_1} straddles his hips, attacking his neck and chest with her lips. {FEMALE_2} unhooks {FEMALE_1}'s bra from behind, rubbing all three bare chests together for 30s."
+  },
+  {
+    "id": "trio-120",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE}'s hands are tied overhead with {ITEM}. {FEMALE_1} and {FEMALE_2} kiss from his ankles all the way up his inner thighs right to the edge of forbidden territory for 45s."
+  },
+  {
+    "id": "trio-121",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} and {FEMALE_2} lie side by side making out passionately, while {MALE} kneels behind, sliding hands between their thighs to stroke both simultaneously for 1 min."
+  },
+  {
+    "id": "trio-122",
+    "level": 2,
+    "duration": 40,
+    "isTrio": true,
+    "text": "{FEMALE_1} holds cold {DRINKABLE} sucking {MALE}'s left sensitive zone, while {FEMALE_2} teases his right nipple and abs with hot wet breath and tongue for 40s."
+  },
+  {
+    "id": "trio-123",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} lies over {MALE}'s lap. {FEMALE_2} bares her hips and firmly spanks her bottom till rosy, while {MALE} smothers her gasps with deep passionate kisses."
+  },
+  {
+    "id": "trio-124",
+    "level": 2,
+    "duration": 30,
+    "isTrio": true,
+    "text": "All strip topless. {MALE} is sandwiched tightly between both bare bodies, groping their hips firmly while grinding their pelvises together for 30s."
+  },
+  {
+    "id": "trio-125",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Drizzle {EATABLE} along {MALE}'s V-line and pelvic bone. Both ladies kneel, greedily licking and sucking every drop clean right to the edge of his briefs."
+  },
+  {
+    "id": "trio-126",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Both ladies flank {MALE}, sinking teeth and lips simultaneously into his neck and collarbones to leave visible love bites until his back arches."
+  },
+  {
+    "id": "trio-127",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} sucks fingers from both ladies till soaked, then guides their wet fingers directly beneath each other's panties to explore."
+  },
+  {
+    "id": "trio-128",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} on all fours; {FEMALE_2} presses flush from behind stroking her clit, while {MALE} kneels in front lifting her chin for deep kisses while cupping her breasts."
+  },
+  {
+    "id": "trio-129",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{MALE} lies face down; both ladies drape over his back. One sucks his nape and shoulder blades, while the other traces fingertips down his spine to his glutes."
+  },
+  {
+    "id": "trio-130",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} straddles {MALE}'s chest locking him in a deep kiss, while {FEMALE_2} kneels between his legs, sliding hands into his briefs to stroke his core rhythmically."
+  },
+  {
+    "id": "trio-131",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "The ladies rest their bare legs over {MALE}'s shoulders and lap, ordering him to lick and kiss every toe, arch, and inner thigh reverently."
+  },
+  {
+    "id": "trio-132",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Turn on vibrating {ITEM}. {MALE} presses it to {FEMALE_1}'s sweet spot, while {FEMALE_1} guides the other end to {FEMALE_2}'s nipple, sharing the buzz."
+  },
+  {
+    "id": "trio-133",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} straddles {MALE}'s lap kissing him fiercely, while {FEMALE_2} kneels behind him, slipping her hand into his underwear to stroke him rhythmically."
+  },
+  {
+    "id": "trio-134",
+    "level": 3,
+    "duration": 45,
+    "isTrio": true,
+    "text": "Head to head, {MALE} french kisses {FEMALE_1} for 15s then instantly turns to tongue {FEMALE_2}, followed by the two ladies making out, sharing saliva."
+  },
+  {
+    "id": "trio-135",
+    "level": 3,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} stands pinned between both ladies—one pressing breasts into his spine, the other grinding her crotch against his bulge firmly for 45s."
+  },
+  {
+    "id": "trio-136",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "The ladies pull {MALE}'s underwear half-down, teasing the tip and sensitive base only with fingernails and hair, denying him direct touch for 1 min."
+  },
+  {
+    "id": "trio-137",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{MALE} has both ladies strip panties; he spreads their folds to inspect wetness, kissing the wetter one and smearing the moisture over the other's lips."
+  },
+  {
+    "id": "trio-138",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Both ladies sit with legs spread; {MALE} crawls between them, giving 15 slow licks to each inner thigh and bikini line as they moan and rate his service."
+  },
+  {
+    "id": "trio-139",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Both ladies press their breasts together around {MALE}'s hands. As he gropes the cleavage, the two ladies french kiss and suck each other's tongues deeply."
+  },
+  {
+    "id": "trio-140",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Strip the very last piece of clothing! All three tumble completely naked onto the bed, limbs tangled, lips locked, hands exploring everywhere!"
+  },
+  {
+    "id": "trio-141",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "The ladies drizzle {EATABLE} along {MALE}'s V-line down to his inner thigh roots. Flanking both sides, they use their tongues to lick and suck every drop clean along the sensitive perimeter for 60s."
+  },
+  {
+    "id": "trio-142",
+    "level": 3,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} slowly drips chilled {DRINKABLE} onto {MALE}'s lower pelvis and groin, while {FEMALE_2} closely follows with hot breaths. They alternate fire and ice sensory teasing for 45s."
+  },
+  {
+    "id": "trio-143",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Both ladies hold {ITEM}, sliding it back and forth along {MALE}'s inner thighs and pelvic edge, teasing close to the threshold without direct center contact for 1 min."
+  },
+  {
+    "id": "trio-144",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "Turn on vibrating {ITEM}. {FEMALE_1} presses it firmly to the junction of {MALE}'s lower groin, while {FEMALE_2} holds {DRINKABLE} in her mouth for a deep locking kiss, controlling his reactions for 60s."
+  }
 ]

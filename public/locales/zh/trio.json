@@ -1,6 +1,310 @@
 [
-  {"id":"trio-1","level":1,"duration":45,"text":"{FEMALE_1} 为 {MALE} 选一首歌，{FEMALE_2} 邀请 {MALE} 共跳一段慢舞，三人一起分享一句真诚赞美。"},
-  {"id":"trio-2","level":2,"duration":60,"text":"{FEMALE_1} 将少量 {DRINKABLE} 递给 {MALE}，{MALE} 与 {FEMALE_2} 碰杯；三人共同完成一分钟默契挑战。"},
-  {"id":"trio-3","level":2,"duration":60,"text":"{MALE} 为 {FEMALE_1} 和 {FEMALE_2} 各挑选一首歌，三人轮流分享一个欣赏彼此的细节。"},
-  {"id":"trio-4","level":3,"duration":90,"text":"{FEMALE_1} 用 {ITEM} 为 {FEMALE_2} 设计一个小惊喜，{MALE} 负责记录并为两人送上鼓励。"}
+  {
+    "id": "trio-101",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 从正面吻住并轻吮 {MALE} 的喉结，{FEMALE_2} 则从其身后贴紧，舌尖沿着后颈与锁骨游走，两人同时留下湿热印记持续 30 秒。"
+  },
+  {
+    "id": "trio-102",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "将冰凉的 {DRINKABLE} 滴在 {MALE} 的胸口与腹肌沟壑上，两位女士分别伏在其胸前与小腹，用舌尖将酒液一点点舔舐吸干，不准残留一滴。"
+  },
+  {
+    "id": "trio-103",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士左右各用一只手，缓慢将 {MALE} 的上衣扣子逐颗全部解开并剥褪至肩下，随后指甲轻轻划过其裸露的肋骨与腹部。"
+  },
+  {
+    "id": "trio-104",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 戴上 {ITEM} 蒙眼，两位女士轮流用温热的舌尖在其耳廓与下唇轻舔一口，{MALE} 必须凭触感与喘息声猜出先后顺序，猜错任由两女惩罚。"
+  },
+  {
+    "id": "trio-105",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 与 {FEMALE_2} 褪去内衣或隔着单薄衣物，左右一齐将丰满胸口死死挤压贴合在 {MALE} 的后背两侧，双手环绕其腰间缓慢磨蹭 30 秒。"
+  },
+  {
+    "id": "trio-106",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 口含一口 {DRINKABLE} 吻向 {FEMALE_1} 度入口中，{FEMALE_1} 咽下一半后，立刻深吻贴向 {FEMALE_2} 将剩余酒液度入其口中，三人唇舌必须深扣。"
+  },
+  {
+    "id": "trio-107",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "由两位女士合力解开 {MALE} 的皮带并拉下拉链，两位女士各伸出一只手伸入裤腰两侧抚摸其胯骨边缘，严禁真正触碰正中，挑逗 45 秒。"
+  },
+  {
+    "id": "trio-108",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "将少许 {EATABLE} 抹在 {MALE} 的耳垂与喉结两侧，两位女士左右开工，同时用湿润的舌尖舔尽，期间发出细微吮吸声刺激其听觉。"
+  },
+  {
+    "id": "trio-109",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 跨坐在 {MALE} 大腿上，双腿紧紧盘住其腰部前后摆动研磨；同时 {FEMALE_2} 从背后抱住 {MALE} 揉捏其胸口并啃咬其肩膀。"
+  },
+  {
+    "id": "trio-110",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 双手分别滑入两位女士的裙底或裤腰内，仅隔着贴身内裤按压抚摸两女的臀肉与大腿内侧，感受两女身体逐渐升高的湿热。"
+  },
+  {
+    "id": "trio-111",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士坐在高处，用 {ITEM} 套住 {MALE} 的脖颈令其跪立，顺着小腿一路吻上两女的大腿内侧直至裙摆最深处，两女需抚摸其发丝给予奖赏。"
+  },
+  {
+    "id": "trio-112",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 口含冰水，{FEMALE_2} 口含温水，两人轮流与 {MALE} 进行深吻交换气息，让 {MALE} 的舌尖在极寒与极热的口腔触感中剧烈交替。"
+  },
+  {
+    "id": "trio-113",
+    "level": 1,
+    "duration": 30,
+    "isTrio": true,
+    "text": "两位女士从左右两侧紧贴 {MALE} 耳垂，一边将滚烫的喘息灌入耳道，一边用银牙轻轻拉扯其耳垂，并轻声说出「今晚你是我们的了」。"
+  },
+  {
+    "id": "trio-114",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 与 {FEMALE_2} 同时在唇间含上一块 {EATABLE}，左右同时贴向 {MALE} 的嘴唇，三人共同咬碎并分享这份甜意。"
+  },
+  {
+    "id": "trio-115",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 闭上双眼，由两位女士商量后，指派其中一人在其喉结或耳垂轻咬一口，{MALE} 猜出是谁即可与该女士共饮一口 {DRINKABLE}，猜错则独自罚饮。"
+  },
+  {
+    "id": "trio-116",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "将少量 {DRINKABLE} 分别倾倒在两位女士的锁骨处，{MALE} 俯身用唇舌将水珠轻柔舔尽，期间两位女士双手搭在其肩头感受体温。"
+  },
+  {
+    "id": "trio-117",
+    "level": 1,
+    "duration": 45,
+    "isTrio": true,
+    "text": "由 {FEMALE_1} 夹起一块冰块沿着 {MALE} 的下颌线滑至喉结，紧接着 {FEMALE_2} 凑上前用温热的呼气吹拂受凉部位，持续缓解寒意。"
+  },
+  {
+    "id": "trio-118",
+    "level": 1,
+    "duration": 60,
+    "isTrio": true,
+    "text": "破冰终章：三人共同脱去各自的外套与多余遮蔽，仅留贴身内衣，三人赤裸相拥原地拥吻转圈 30 秒，准备迎接共浴洗礼！"
+  },
+  {
+    "id": "trio-119",
+    "level": 2,
+    "duration": 30,
+    "isTrio": true,
+    "text": "{MALE} 平躺，{FEMALE_1} 跨坐在其腰腹上方用唇舌肆虐其喉结与胸口，同时 {FEMALE_2} 俯身在其耳边低喘并将 {FEMALE_1} 的内衣解开，三人胸膛紧密摩擦 30 秒。"
+  },
+  {
+    "id": "trio-120",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 双手被 {ITEM} 束于头顶，{FEMALE_1} 与 {FEMALE_2} 各持一侧，从脚踝吻至大腿根内侧最敏感边缘，只能喘息不得反抗，持续 45 秒。"
+  },
+  {
+    "id": "trio-121",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} 与 {FEMALE_2} 侧卧相拥热吻，{MALE} 跪于二女身后，双手分别探入两女下身最深私密处，伴随两女喘息节奏同时爱抚 1 分钟。"
+  },
+  {
+    "id": "trio-122",
+    "level": 2,
+    "duration": 40,
+    "isTrio": true,
+    "text": "{FEMALE_1} 含着冰凉的 {DRINKABLE} 吮吸 {MALE} 的左侧敏感带，{FEMALE_2} 用温热呼气与湿润舌尖刺激其右侧乳尖与腰腹，极度温差交替折磨 40 秒。"
+  },
+  {
+    "id": "trio-123",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 趴在 {MALE} 腿上，由 {FEMALE_2} 褪下其下衣并轻拍其臀肉至微红，期间 {MALE} 必须深吻压制 {FEMALE_1} 的娇吟与喘息。"
+  },
+  {
+    "id": "trio-124",
+    "level": 2,
+    "duration": 30,
+    "isTrio": true,
+    "text": "三人褪去全部上衣紧贴站立，{MALE} 居中，前后紧密夹逼在两女温热赤裸的身躯之间，双手大力揉捏两女翘臀，同步下半身研磨 30 秒。"
+  },
+  {
+    "id": "trio-125",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "将滴落的 {EATABLE} 涂抹在 {MALE} 的人鱼线与耻骨边缘，{FEMALE_1} 与 {FEMALE_2} 跪在两侧，像争夺猎物般用舌尖顺着毛发边缘舔吮干净。"
+  },
+  {
+    "id": "trio-126",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "两位女士左右合抱 {MALE}，同时在其耳下敏感神经至锁骨处留下清晰吮痕（草莓印），直至 {MALE} 身体忍不住弓起颤抖。"
+  },
+  {
+    "id": "trio-127",
+    "level": 2,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 躺平屈膝，拉着 {FEMALE_1} 与 {FEMALE_2} 各自的一根手指同时送入口中吮湿，再由两女将湿润的手指滑入彼此的贴身内衣中探索。"
+  },
+  {
+    "id": "trio-128",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} 呈猫式跪趴，{FEMALE_2} 从后紧密贴合抚摸其敏感带，{MALE} 则从正前方俯身托起 {FEMALE_1} 的下巴与其热吻并揉搓双乳。"
+  },
+  {
+    "id": "trio-129",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{MALE} 俯卧，两位女士分别伏在其后背两侧，一人细细吮吸其后颈与肩胛骨留下齿痕，另一人指尖蘸取温热体液自腰窝滑至股沟边缘轻刮。"
+  },
+  {
+    "id": "trio-130",
+    "level": 2,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} 跨坐在 {MALE} 胸口与其深吻封口，{FEMALE_2} 跪于其双腿间，将双手探入底裤对其命脉与囊袋进行湿润套弄，两女轮流掌控其呼吸。"
+  },
+  {
+    "id": "trio-131",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士脱去丝袜/底裤，将双腿交叠架在 {MALE} 的肩膀与大腿上，命令 {MALE} 逐寸亲吻每一根脚趾、脚弓直至大腿根。"
+  },
+  {
+    "id": "trio-132",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "开启 {ITEM}（跳蛋/振动棒），由 {MALE} 抵在 {FEMALE_1} 的私密花核上，同时 {FEMALE_1} 伸手握住 {ITEM} 另一端抵在 {FEMALE_2} 的胸尖，三人感受同频共振。"
+  },
+  {
+    "id": "trio-133",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{FEMALE_1} 跨坐在 {MALE} 大腿上面对面对坐狂吻，{FEMALE_2} 则悄然跪在 {MALE} 身后，将手探入其底裤内对其命脉进行纯熟撸动。"
+  },
+  {
+    "id": "trio-134",
+    "level": 3,
+    "duration": 45,
+    "isTrio": true,
+    "text": "三人头靠头围成极小圆圈，{MALE} 舌吻 {FEMALE_1} 15秒后立刻不间断转头舌吻 {FEMALE_2}，两女再舌吻缠绵，津液交换拉出银丝。"
+  },
+  {
+    "id": "trio-135",
+    "level": 3,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{MALE} 站立，两位女士一前一后将其牢牢夹死在中央，后方用丰满贴紧其后背，前方用下身死死贴合其隆起处，三人剧烈研磨下体 45 秒。"
+  },
+  {
+    "id": "trio-136",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士一齐将 {MALE} 的内裤拉至大腿半截，仅用指甲尖或发丝轻轻撩拨其冠状沟与囊袋边缘，严禁真正触碰，持续折磨 1 分钟。"
+  },
+  {
+    "id": "trio-137",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "{MALE} 命令两位女士褪去底裤侧卧，{MALE} 亲自拨开两人花瓣检查湿润程度，并亲吻最湿润的那一位，随后用湿润的手指抚摸另一人的唇瓣。"
+  },
+  {
+    "id": "trio-138",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士分开双腿坐在沙发两侧，命令 {MALE} 趴跪在中央，左右轮流各舔舐两女大腿根与三角边缘 15 口，听从两女喘息打分。"
+  },
+  {
+    "id": "trio-139",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士侧身相对将乳房紧密挤压在一起夹住 {MALE} 的手，{MALE} 在两座峰峦间揉搓，同时两位女士互相深吻并吮吸对方的舌头。"
+  },
+  {
+    "id": "trio-140",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "剥除全员身上最后一件遮蔽物！三人完全赤裸纠缠倒向床榻，肢体相扣、四唇相接，任由双手在彼此身上任意游走点火，直奔极乐！"
+  },
+  {
+    "id": "trio-141",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士将少许 {EATABLE} 沿 {MALE} 的人鱼线淋至大腿内侧根部，两人左右分工，紧贴着下身最敏感的边缘，用舌尖将甜浆一寸寸舔吸干净，持续 60 秒。"
+  },
+  {
+    "id": "trio-142",
+    "level": 3,
+    "duration": 45,
+    "isTrio": true,
+    "text": "{FEMALE_1} 将冰凉的 {DRINKABLE} 缓慢滴在 {MALE} 的下腹骨盆与腹股沟处，{FEMALE_2} 随即使用温热的口腔呼气逼近吹拂，两人交替用冰火温差刺激其敏感带 45 秒。"
+  },
+  {
+    "id": "trio-143",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "两位女士手持 {ITEM}，一左一右贴着 {MALE} 的大腿内侧与耻骨边缘来回轻柔滑拉，逼近最敏感核心却严禁直接触碰正中，借由织物/材质摩擦折磨其耐力 1 分钟。"
+  },
+  {
+    "id": "trio-144",
+    "level": 3,
+    "duration": 60,
+    "isTrio": true,
+    "text": "开启振动的 {ITEM}，由 {FEMALE_1} 紧抵在 {MALE} 的下腹耻骨与大腿根交界处，同时 {FEMALE_2} 口含少许 {DRINKABLE} 深吻封住其双唇，在震颤与窒息感中掌控其反应 60 秒。"
+  }
 ]
